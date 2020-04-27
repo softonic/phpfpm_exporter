@@ -1,3 +1,5 @@
+# **DEPRECATED** in favor https://github.com/hipages/php-fpm_exporter
+
 # phpfpm_exporter
 Prometheus exporter for php-fpm status information. If you are running php-fpm with nginx webserver (or any other webserver), and have configured your php-fpm to serve status information, phpfpm_exporter will export the status information into a format that prometheus can read.
 
